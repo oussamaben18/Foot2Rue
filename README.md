@@ -25,6 +25,7 @@ Gallery of images: The landing page includes a gallery of images from the series
 Contact form: Visitors can use the contact form to get in touch with me or provide feedback about the landing page.
 Technologies:
 
+React.js
 HTML
 CSS
 Tailwind CSS
