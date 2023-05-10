@@ -22,8 +22,6 @@ Responsive design: The landing page is designed to be responsive and mobile-frie
 Tailwind CSS: I used the Tailwind CSS framework to style the page and make it visually appealing.
 Information about the show: The landing page provides information about the show, including its plot, characters, and air time.
 Gallery of images: The landing page includes a gallery of images from the series to showcase the show's art style and characters.
-Contact form: Visitors can use the contact form to get in touch with me or provide feedback about the landing page.
-Technologies:
 
 React.js
 HTML
